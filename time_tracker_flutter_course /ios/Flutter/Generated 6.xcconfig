@@ -1,0 +1,12 @@
+// This is a generated file; do not edit or check into version control.
+FLUTTER_ROOT=/Users/chrismckiernan/Desktop/Flutter/flutter
+FLUTTER_APPLICATION_PATH=/Users/chrismckiernan/Desktop/Flutter/apps/time_tracker_flutter_course/time_tracker_flutter_course
+FLUTTER_TARGET=/Users/chrismckiernan/Desktop/Flutter/apps/time_tracker_flutter_course/time_tracker_flutter_course/lib/main.dart
+FLUTTER_BUILD_DIR=build
+SYMROOT=${SOURCE_ROOT}/../build/ios
+FLUTTER_BUILD_NAME=1.0.0
+FLUTTER_BUILD_NUMBER=1
+DART_OBFUSCATION=false
+TRACK_WIDGET_CREATION=true
+TREE_SHAKE_ICONS=false
+PACKAGE_CONFIG=/Users/chrismckiernan/Desktop/Flutter/apps/time_tracker_flutter_course/time_tracker_flutter_course/.dart_tool/package_config.json
